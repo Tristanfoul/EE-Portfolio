@@ -57,10 +57,4 @@ A more complex analog circuit was implemented using multiple ICs wired across th
 
 ## Files
 ```
-/
-├── README.md
-└── images/
-    ├── oscilloscope.jpg
-    ├── bench_setup.jpg
-    └── breadboard_analog.jpg
-```
+
