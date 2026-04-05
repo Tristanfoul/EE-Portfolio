@@ -57,7 +57,7 @@ Tools: Quartus II, 74283 Adder Components
 
 
 🛠️ Skills
-AreaTools & TechnologiesHDL DesignVHDL, Quartus IICircuit SimulationOrCAD PSpice, MultisimFPGAAltera DE2, Cyclone IILab InstrumentsOscilloscope, Function Generator, MultimeterDigital LogicBoolean Algebra, K-maps, Combinational CircuitsPrototypingBreadboarding, TTL ICs, Proto-Board PB-503
+AreaTools & Technologies HDL Design VHDL, Quartus II Circuit Simulation Or CAD PSpice, Multisim FPGA Altera DE2, Cyclone IILab Instruments Oscilloscope, Function Generator, Multimeter Digital Logic Boolean Algebra, K-maps, Combinational Circuits Prototyping Breadboarding, TTL ICs, Proto-Board PB-503
 
 📬 Contact
 
