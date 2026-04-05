@@ -54,7 +54,8 @@ Built on a **Global Specialties Proto-Board PB-503** using physical TTL logic ga
 
 All 16 input combinations were tested against the expected truth table. **No mismatches were observed.**
 
-![Breadboard Implementation](./images/breadboard.jpg)
+![Breadboard Implementation](https://github.com/user-attachments/assets/9c566a80-7a18-4a96-a7d7-5e31026d3bba)
+
 
 ---
 
