@@ -29,7 +29,7 @@ This project documents hands-on analog circuit implementation and measurement wo
 Waveforms were captured using the Tektronix MDO3024 Mixed Domain Oscilloscope at 250MS/s. The function generator was configured to drive the circuit under test, with multiple channels monitored simultaneously to observe signal behavior across different circuit nodes.
 
 ![Oscilloscope Setup](https://github.com/user-attachments/assets/9a153f53-aa4d-431b-a740-8fe4ae8c0ab7)
-)
+
 
 ---
 
