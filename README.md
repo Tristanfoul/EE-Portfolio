@@ -13,7 +13,7 @@ Verified all 16 input combinations against expected truth table
 Tools: Logic Gates (AND/OR ICs), Proto-Board PB-503, Agilent Multimeter
 
 
-2. 🔲 [VHDL 3-to-8 Decoder](Projects/README_vhdl_decoder.md)
+2. 🔲 [VHDL 3-to-8 Decoder](Projects/vhdl_decoder.md)
 
 FPGA implementation of a 3-to-8 line decoder using VHDL
 
@@ -24,7 +24,7 @@ Pin-mapped to onboard switches and LEDs for physical verification
 Tools: Quartus II, Altera DE2 (Cyclone II EP2C35F672C6), VHDL
 
 
-3. 🔌[ RLC Resonance Circuit](Projects/README_rlc_resonance.md)
+3. 🔌[ RLC Resonance Circuit](Projects/rlc_resonance.md)
 
 Series RLC circuit simulation and transient analysis
 
@@ -34,7 +34,7 @@ Ran transient analysis to observe resonance behavior and voltage waveforms
 Tools: OrCAD PSpice, Multisim, Tektronix MDO3024 Oscilloscope
 
 
-4. 📡 [Analog Lab Bench Work](Projects/README_analog_bench.md)
+4. 📡 [Analog Lab Bench Work](Projects/analog_bench.md)
 
 Hands-on analog circuit implementation and measurement
 
