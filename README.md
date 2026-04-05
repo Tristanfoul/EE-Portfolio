@@ -2,7 +2,7 @@ Tristan Foulcard — Electrical Engineering Portfolio
 EE student skilled in VHDL, FPGA design, and circuit simulation. Experienced with Quartus II, Or CAD/PSpice, and hands-on IC implementation. Passionate about hardware design from logic gates to programmable devices.
 
 📁 Projects
-1. 🤖 [Industrial Robot Sensor Network](Projects/robot-sensor-network.md/README.md)
+1. 🤖 [Industrial Robot Sensor Network](Projects/robot_sensor_network.md)
 
 Combinational logic circuit design for a PCB assembly robot safety system
 
