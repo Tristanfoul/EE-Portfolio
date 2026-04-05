@@ -44,7 +44,8 @@ END arc;
 
 Functional simulation was run in Quartus II, generating waveforms for all input/output signals. The simulation confirmed correct one-hot output behavior across all 8 input combinations with **0 errors and 0 warnings**.
 
-![Simulation Waveforms](./images/simulation_waveforms.jpg)
+![Simulation Waveforms](https://github.com/user-attachments/assets/2c3bf27e-0454-4211-9bdb-f494f9708b3f)
+
 
 ---
 ### How It Works
@@ -66,8 +67,10 @@ Each output `Y0`–`Y7` corresponds to one of the 8 possible 3-bit input combina
 
 The compiled design was loaded onto the **Altera DE2 development board** via the Quartus II programmer. Pin assignments were mapped using the Pin Planner for the Cyclone II chip, with inputs tied to onboard switches and outputs mapped to LEDs for visual verification.
 
-![Pin Planner](./images/pin_planner.jpg.jpg)  
-![DE2 Board](./images/de2_board.jpg)
+![Pin Planner](https://github.com/user-attachments/assets/21a2b335-5e07-48f7-8d43-ec2effab82fb)
+
+![DE2 Board](https://github.com/user-attachments/assets/025efb79-8b83-4980-9977-78b381def070)
+
 
 ---
 
