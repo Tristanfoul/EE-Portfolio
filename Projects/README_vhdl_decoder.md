@@ -67,7 +67,7 @@ Functional simulation was run in Quartus II, generating waveforms for all input/
 
 The compiled design was loaded onto the **Altera DE2 development board** via the Quartus II programmer. Pin assignments were mapped using the Pin Planner for the Cyclone II chip, with inputs tied to onboard switches and outputs mapped to LEDs for visual verification.
 
-![Pin Planner](./images/pin_planner.jpg)  
+![Pin Planner](Projects/images/pin_planner.jpg.jpg)  
 ![DE2 Board](./images/de2_board.jpg)
 
 ---
