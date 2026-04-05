@@ -23,7 +23,7 @@ A single 74283 4-bit adder IC was instantiated in the Quartus II block diagram e
 - 4-bit sum output: `SUM[3:0]`
 - Carry out: `COUT`
 
-![4-bit Block Diagram](./images/fourbit_bdf.jpg)
+![4-bit Block Diagram](Projects/images/IMG_4076.jpeg)
 
 ### VHDL Equivalent
 
@@ -61,7 +61,7 @@ Functional simulation confirmed correct addition across all tested input combina
 | 9 | 8 | 1 | 1 |
 | 6 | A | 0 | 1 |
 
-![4-bit Simulation Waveforms](./images/fourbit_sim.jpg)
+![4-bit Simulation Waveforms](Projects/images/IMG_4074.jpeg)
 
 ---
 
@@ -74,7 +74,7 @@ Two 74283 adder blocks were cascaded in the Quartus II block diagram editor:
 - Final 8-bit sum: `SUM[7:0]`
 - Final carry out: `COUT`
 
-![8-bit Block Diagram](./images/eight_bdf.jpg)
+![8-bit Block Diagram](Projects/images/IMG_4078.jpeg)
 
 ### VHDL Equivalent
 
@@ -121,7 +121,7 @@ Both functional and timing simulations were run. Results confirmed correct 8-bit
 | 03      | 25      | 28          | 0    |
 | 85      | 7E      | 03          | 1    |
 
-![8-bit Timing Simulation](./images/eight_sim_timing.jpg)
+![8-bit Timing Simulation](Projects/images/IMG_4080.jpeg)
 
 ---
 
