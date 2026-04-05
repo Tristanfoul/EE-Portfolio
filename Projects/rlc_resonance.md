@@ -15,13 +15,14 @@ This project involved designing and simulating a **series RLC circuit** to obser
 
 The series RLC circuit was configured with the following components:
 
-| Component | Value |
-|-----------|-------|
-| Capacitor (C1) | 1µF |
-| Inductor (L1) | 230µH |
-| Source Voltage | 1Vpp AC |
-| Frequency | 1kHz |
-| Offset | 0V |
+| Component | PSpice Value | Multisim Value |
+|-----------|-------------|----------------|
+| Capacitor (C1) | 1µF | 0.01µF |
+| Inductor (L1) | 230µH | 100mH |
+| Resistor | — | 7kΩ |
+| Source Voltage | 1Vpp AC | 2.10V AC |
+| Frequency | 1kHz | 1kHz |
+| Offset | 0V | 0V |
 
 ![PSpice Schematic](https://github.com/user-attachments/assets/1849247b-9b1c-4b8d-9975-5ada1843cb98)
 
@@ -43,7 +44,7 @@ A transient analysis was run to observe the voltage waveforms across the resisto
 ---
 
 ### Multisim — Interactive Simulation
-The same circuit was recreated in Multisim with a 2.10V source at 1kHz driving a series RLC network consisting of a 7kΩ resistor, 100mH inductor, and 0.01µF capacitor. The interactive grapher confirmed the expected voltage waveform behavior.
+Different component values were used across platforms to explore resonance behavior at different frequency ranges.
 
 - Cursor measurements recorded at 2.8117s and 2.8134s
 - Voltage difference of approximately 2.0973V measured between cursors
